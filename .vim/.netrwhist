@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/kp/workspace/projects/deepfence_ui/client/app/scripts/components/common/integration-table-view'
+let g:netrw_dirhist_2='/home/kp/workspace/projects/deepfence_ui/client/app/scripts/components/integration-view'
+let g:netrw_dirhist_3='/home/kp/workspace/projects/deepfence_ui/client/app/scripts/components/integration-view/report-download'
+let g:netrw_dirhist_4='/home/kp/workspace/projects/deepfence_ui/client/app/scripts/utils'
+let g:netrw_dirhist_5='/home/kp/workspace/projects/deepfence_ui/client/app/scripts/reducers'
+let g:netrw_dirhist_6='/home/kp/workspace/projects/deepfence_ui/client/app/scripts/components/integration-view/report-download'

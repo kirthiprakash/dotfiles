@@ -1,0 +1,2 @@
+" interactive jump to search lists. Supports include-search list too
+:map <F4> [I:let nr = input("Which one: ")<Bar>exe "normal " . nr ."[\t"<CR>
